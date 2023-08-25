@@ -1,4 +1,4 @@
-- Hi, I’m @RTAL24
+-  Ryan Talmage
 -  Arapahoe Community College
 -  Cybersecurity
 -  Sophomore
